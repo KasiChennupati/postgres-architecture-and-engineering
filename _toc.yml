@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 options:
-  numbered: True
+  numbered: False
 chapters:
   - file: documentation/Introduction/Introduction
     sections:
