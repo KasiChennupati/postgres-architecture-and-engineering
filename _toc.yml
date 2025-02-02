@@ -9,4 +9,4 @@ chapters:
   - file: documentation/Introduction/Introduction
     sections:
       - file: documentation/Administration/sections/backup
-  - file: documentation/2_Architecture/Architecture
+  - file: documentation/Architecture/Architecture
