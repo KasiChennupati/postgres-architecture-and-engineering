@@ -7,6 +7,10 @@ options:
   numbered: False
 chapters:
   - file: documentation/Introduction/Introduction
+  
+  - file: documentation/Architecture/Architecture
+
+  - file: documentation/Administration/administration
     sections:
       - file: documentation/Administration/sections/backup
-  - file: documentation/Architecture/Architecture
+  
