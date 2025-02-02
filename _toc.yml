@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+  numbered: True
+chapters:
+  - file: chapters/Administration/administration
+    sections:
+      - file: chapters/Administration/sections/backup
+  
+  - file: chapters/Architecture/postgres-best-practices
